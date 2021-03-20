@@ -1,0 +1,35 @@
+.text-center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card {
+  width: 240px;
+  height: 320px;
+  border: 1px solid rgb(224, 224, 224);
+  padding: 20px 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.card img {
+  width: 180px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.card p {
+  margin: 0;
+}

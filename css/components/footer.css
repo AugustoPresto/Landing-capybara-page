@@ -1,0 +1,27 @@
+footer {
+  padding: 90px;
+  text-align: center;
+  background-color: #2C2B2B;
+  color: white;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  color: #8F6B37;
+  font-size: 3em;
+  padding: 20px;
+}
+
+a:hover {
+  opacity: .8;
+}
